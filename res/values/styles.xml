@@ -1,0 +1,10 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+	<style name="foodRatingBar" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/rating_full</item>
+        <!-- <item name="android:minHeight">35px</item>
+        <item name="android:maxHeight">35px</item> -->
+        <item name="android:minHeight">35px</item>
+    </style>
+</resources>
