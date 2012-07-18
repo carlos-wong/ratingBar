@@ -1,0 +1,4 @@
+ratingBar
+=========
+
+test ratingBar
